@@ -1,0 +1,2 @@
+cpython-docs: https://github.com/python/cpython.git folder=Doc commit=ad126c954cc2f42b31bf383ecb5f1bcadff2973d
+peps: https://github.com/python/peps.git folder=peps commit=efec2601611c2fa53b1b1791b09b0368840c038c
